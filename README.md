@@ -4,6 +4,8 @@
 
 --------------------------------------------------------------------
 
+# Mindaugas
+
 ![Unit Tests](https://github.com/geohot/tinygrad/workflows/Unit%20Tests/badge.svg)
 
 [![tinygrad discord](https://discordapp.com/api/guilds/1068976834382925865/widget.png?style=banner2)](https://discord.gg/ZjZadyC7PK)
